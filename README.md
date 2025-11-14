@@ -3,6 +3,7 @@
 An interactive 3D educational platform for understanding CPU architecture through hands-on logic gate manipulation and circuit building.
 
 <!-- ![CPU Playground Header]() -->
+[Gate to Demo](https://0and1.vercel.app)
 
 ## Features
 
